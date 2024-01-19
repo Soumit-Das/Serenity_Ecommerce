@@ -9,7 +9,7 @@ Serenity is an e-commerce website specializing in fashion products. Whether you'
 - User Authentication: Secure and hassle-free login and signup process.
 - Product Sorting and Filtering: Easily sort and filter products based on your preferences.
 - Add to Cart: Build your cart by adding desired items while you shop.
-- Checkout and Payments: Seamless checkout process with Razorpay API integration for secure payments.
+- Checkout and Payments: Seamless checkout process with multiple payment options.
 ## Screenshots
 
 
