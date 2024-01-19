@@ -66,7 +66,7 @@ Serenity is an e-commerce website specializing in fashion products. Whether you'
 - Frontend: HTML, CSS, JavaScript
 - Frontend Dependencies: Bootstrap 5, thymeleaf
 ## Installation
-1. Clone the repository: git clone https://github.com/Soumit-Das/Ecommerce.git
+1. Clone the repository: git clone https://github.com/Soumit-Das/Serenity_Ecommerce.git
 2. Set up the backend using Spring Boot and MySQL. Make sure to configure your database settings.
 3. Install the required dependencies using cdn of bootstrap and thymeleaf.
 ## Usage
